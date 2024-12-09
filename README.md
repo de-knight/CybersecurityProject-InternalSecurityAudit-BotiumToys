@@ -72,7 +72,7 @@ This project enhanced my skills in:
 ### How to Use This Repository
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Internal-Security-Audit-Botium-Toys.git
+   git clone https://github.com/de-knight/CybersecurityProject-InternalSecurityAudit-BotiumToys
 
 #### **About Me**
 ```markdown
