@@ -41,13 +41,13 @@ The audit utilized the following frameworks:
 
 ### Artifacts and Deliverables
 - **Controls and Compliance Checklist**:  
-  - [Download the completed checklist](src/Compliance_Checklist_Completed.xlsx)
+  - [Download the completed checklist](src/Compliance_Checklist_Completed.pdf)
 - **Audit Scope and Goals**:  
   - [View the document](docs/Audit_Scope_and_Goals.pdf)
 - **Risk Assessment Report**:  
   - [View the document](docs/Risk_Assessment_Report.pdf)
 - **Audit Findings and Recommendations**:  
-  - [View recommendations](src/Internal_Audit_Controls_Report.md)
+  - [View recommendations](src/Internal_Audit_Controls_Report.pdf)
 - **Framework Diagram**:  
   - ![Framework Diagram](assets/diagrams/audit_framework_diagram.png)
 
